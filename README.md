@@ -19,7 +19,7 @@ NA
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+NA
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
