@@ -1,9 +1,6 @@
 ## SECTION 1 : PROJECT TITLE
 ## Mortgage Loan Application Process
 
-<img src="SystemCode/clips/static/hdb-bto.png"
-     style="float: left; margin-right: 0px;" />
-
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 From the course, I have learnt to extract business rule from data using inductive reasoning. I have successfully enhanced the KIE home loan system using the discovered knowledge. Towards the end of the project, I have exported my project to github and IVLE system for the individual project submission. 
