@@ -3,7 +3,12 @@
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-From the course, I have learnt to extract business rule from data using inductive reasoning. I have successfully enhanced the KIE home loan system using the discovered knowledge. Towards the end of the project, I have exported my project to github and IVLE system for the individual project submission. 
+From the course, I have learnt to extract business rule from data using inductive reasoning. I have successfully enhanced the KIE home loan system using the discovered knowledge. The exact detail of the changes I have made is further explained under Section 6.
+
+Towards the end of the project, I have exported my project to github and IVLE system for the individual project submission.
+
+Link to github: https://github.com/leebk93/IRS-MR-2019-01-19-IS1FT-IND-LeeBoonKien-Mortgage_Process
+
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -14,21 +19,21 @@ From the course, I have learnt to extract business rule from data using inductiv
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-NA
+NA for individual project
 
 ---
 ## SECTION 5 : USER GUIDE
 
-NA
+NA for KIE system
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-NA
+Refer to ProjectReport
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-NA
+Refer to ProjectReport
 
 ---
