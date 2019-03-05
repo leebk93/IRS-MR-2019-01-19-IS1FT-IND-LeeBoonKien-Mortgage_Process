@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Mortgage Loan Application Process
+## Enhanced Mortgage Loan Application Process
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
